@@ -1,3 +1,7 @@
+"""
+Training an image classifier using Pytorch. We train the algorithm using cat and fish photos.
+"""
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
